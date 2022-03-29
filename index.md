@@ -1,6 +1,7 @@
 Hello and welcome to this blog. 
 
-![Uploading Ankur pic.jpg…](Ankur Tiwari)
+![Ankur pic](https://user-images.githubusercontent.com/98001972/160572379-cb4a8c2d-a9b4-470e-9262-e18e056d425b.jpg)
+
 
 
 ## I have a blog
