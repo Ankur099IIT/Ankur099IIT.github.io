@@ -1,6 +1,7 @@
 Hello and welcome to this blog. 
 
-![Image of fast.ai logo](images/logo.png)
+![Uploading Ankur pic.jpg…](Ankur Tiwari)
+
 
 ## I have a blog
 
