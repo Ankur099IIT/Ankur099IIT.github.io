@@ -1,6 +1,6 @@
 # Hello, a bit about me:
 
-![Ankur pic](https://user-images.githubusercontent.com/98001972/160588422-0155bdcd-874d-49d2-bf7c-e5bed0b3da90.jpg)
+![Ankur Tiwari](images/Ankur_pic.jpg)
 
 
 
